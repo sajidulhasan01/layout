@@ -1,0 +1,170 @@
+.header {
+    min-height: 80px;
+    background-color: darkred;
+    position: relative;
+    top: -8px;
+    margin: auto;
+    width: 100%;
+}
+
+.logo {
+    display: block;
+    float: left;
+    color: white;
+    margin: 26px 30px;
+    font-size: 25px;
+}
+
+.navbar {
+    color: white;
+    float: right;
+    font-size: 20px;
+    margin-right: 15px;
+    margin-top: 25px;
+}
+
+.banner {
+    text-align: center;
+    background-color: aquamarine;
+    min-height: 300px;
+    position: relative;
+    top: -26px;
+}
+
+.bnr {
+    color: black;
+    position: relative;
+    top: 78px;
+}
+
+.bnrp {
+    position: relative;
+    top: 83px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.single {
+    min-height: 300px;
+    margin-top: 5px;
+    width: 33.33%;
+    float: left;
+    position: relative;
+    top: -28px;
+    text-align: center;
+}
+
+.single p {
+    margin-top: 133px;
+    font-size: 35px;
+}
+
+.red {
+    background-color: crimson;
+}
+
+.green {
+    background-color: greenyellow;
+}
+
+.blue {
+    background-color: lightseagreen;
+}
+
+.serv {
+    width: 49.8%;
+    background-color: cadetblue;
+    min-height: 250px;
+    float: left;
+    margin-top: -28px;
+    text-align: center;
+}
+
+.portsec {
+    margin-top: 5px;
+}
+
+.port {
+    width: 49.8%;
+    background-color: darkgoldenrod;
+    min-height: 250px;
+    float: right;
+    margin-top: -28px;
+    text-align: center;
+}
+
+.srv {
+    position: relative;
+    top: 110px;
+    font-size: 30px;
+}
+
+.prt {
+    position: relative;
+    top: 110px;
+    font-size: 30px;
+}
+
+.bx1 {
+    min-height: 250px;
+    width: 25%;
+    float: left;
+    position: relative;
+    top: 4px;
+    text-align: center;
+}
+
+.lal {
+    background-color: coral;
+}
+
+.sbg {
+    background-color: forestgreen;
+}
+
+.nel {
+    background-color: mediumturquoise;
+}
+
+.yl {
+    background-color: orange;
+}
+
+.bx2 {
+    min-height: 250px;
+    width: 20%;
+    float: left;
+    position: relative;
+    top: 9px;
+    text-align: center;
+}
+
+.cc {
+    background-color: cyan;
+}
+
+.mm {
+    background-color: magenta;
+}
+
+.yy {
+    background-color: sandybrown;
+}
+
+.kk {
+    background-color: slategray;
+}
+
+.pnk {
+    background-color: palevioletred;
+}
+
+.foot {
+    position: relative;
+    bottom: -19px;
+}
+
+.brk {
+    position: relative;
+    bottom: -4px;
+}
